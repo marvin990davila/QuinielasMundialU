@@ -7,6 +7,6 @@ namespace QuinielasMundial.Data
 {
     public class Coneccion
     {
-
+        public static string rutaConexion = "";
     }
 }

@@ -158,6 +158,13 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Data\Coneccion.cs" />
+    <Compile Include="Data\EquipoDao.cs" />
+    <Compile Include="Data\InvitadosDao.cs" />
+    <Compile Include="Data\LigaDao.cs" />
+    <Compile Include="Data\PersonaDao.cs" />
+    <Compile Include="Data\QuinielaDao.cs" />
+    <Compile Include="Data\UsuariosDao.cs" />
+    <Compile Include="Data\VaticinioDao.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
